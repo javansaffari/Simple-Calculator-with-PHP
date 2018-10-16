@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+button {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 5px 8px;
+    font-size: 15px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+input, select {
+    padding: 5px 8px;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+
+}
+
+.answer {
+    max-width: 150px;
+    color: #fff;
+    background-color: #28A745;
+    padding: 5px 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 0 auto;
+}

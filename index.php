@@ -50,10 +50,8 @@
             case "Divide":
                 echo $num1 / $num2;
                 break;
-
         };
     };
-
 
     ?>
     
